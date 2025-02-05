@@ -1,0 +1,79 @@
+{
+    "head": {
+        "menu": "img/download.svg",
+        "logo": "img/fkheaderlogo_exploreplus-44005d.svg",
+        "account": {
+            "img": "img/profile-52e0dc.svg",
+            "text": "Login",
+            "arrow": "img/download (1).svg",
+            "logItems": {
+                "newCustomer": "New customer?",
+                "signUp": "Sign Up"
+            }
+        },
+        "cart": {
+            "img": "img/header_cart-eed150.svg",
+            "text": "Cart"
+        },
+        "seller": {
+            "img": "img/Store-9eeae2.svg",
+            "text": "Become a Seller"
+        },
+        "dot": {
+            "img": "img/header_3verticalDots-ea7819.svg",
+            "dotItems": [
+                "Notification Preferences",
+                "24x7 Customer Care",
+                "Advertise",
+                "Download App"
+            ]
+        }
+    },
+    "categories": [
+        {
+            "image": "img/29327f40e9c4d26b.png",
+            "text" : "Kilos",
+            "link": "#"
+        },
+        {
+            "image": "img/22fddf3c7da4c4f4.png",
+            "text": "Mobiles",
+            "link": "#"
+        },
+        {
+           "image": "img/0d75b34f7d8fbcb3.png",
+            "text": "Fashion",
+            "downArrow": true
+        },
+        {
+            "image": "img/69c6589653afdb9a.png",
+            "text": "Electronics",
+            "downArrow": true
+        },
+        {
+            "image": "img/ab7e2b022a4587dd.jpg",
+            "text": "Home & Furniture",
+            "downArrow": true
+        },
+        {
+            "image": "img/0139228b2f7eb413.jpg",
+            "text": "Appliances",
+            "link": "#"
+        },
+        {
+            "image": "img/71050627a56b4693.png",
+            "text": "Flight Bookings",
+            "link": "#"
+        },
+        {
+            "image": "img/dff3f7adcf3a90c6.png" ,
+            "text": "Beauty, Toys & More",
+            "downArrow": true
+        },
+        {
+            "image": "img/05d708653beff580.png",
+            "text": "Two Wheelers",
+            "downArrow": true
+        }
+    ]
+}
